@@ -1,0 +1,5 @@
+def print _hello():
+print("Hello World!")
+
+if__name__=='__main__':
+print_hello()
